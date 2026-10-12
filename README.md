@@ -158,10 +158,6 @@ Responsibilities:
 B.E. in Communication Engineering  
 2023.09 - 2027.06
 
-- Major GPA: 88/100
-- Major Ranking: 17/102
-- Incoming Graduate Student:
-  BJTU National Elite Engineer Program
 
 
 ---
