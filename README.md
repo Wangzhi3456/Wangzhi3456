@@ -1,16 +1,38 @@
 ## Hi there 👋
+# Hi, I'm Ruixuan Wang 👋
 
-<!--
-**Wangzhi3456/Wangzhi3456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Communication Engineering Student at 
+Beijing Jiaotong University
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 5G-R and 6G Wireless Communication
+- Cell-Free Massive MIMO
+- High-Speed Railway Communication
+- Embedded AI Systems
+
+
+## Projects
+
+🚄 CF-HST
+Cell-Free Massive MIMO simulation for high-speed train communication
+
+🌏 Satellite-Air-Ground Integrated Communication System
+
+🚗 Intelligent Vehicle Platform
+
+
+## Skills
+
+Programming:
+MATLAB | Python | C | VHDL
+
+Tools:
+CST | Vivado | LTspice | Multisim
+
+
+## Contact
+
+Email:
+wangzhi3456@gmail.com
+
