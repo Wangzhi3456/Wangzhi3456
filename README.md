@@ -166,6 +166,3 @@ B.E. in Communication Engineering
 
 Email:
 wangzhi3456@gmail.com
-
-GitHub:
-https://github.com/yourname
