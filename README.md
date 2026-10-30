@@ -12,7 +12,7 @@
 - **智能系统：** 机器学习、计算机视觉、嵌入式系统
 
 ### 🛠️ 技术栈
-- **编程语言：** Python、C、C++、MATLAB
+- **编程语言：** Python、C、C++、MATLAB、SQL
 - **AI 与开发：** PyTorch、YOLOv8、RAG、Streamlit、LangChain、LangGraph
 - **工程工具：** Git、CST、Vivado、Multisim、LTspice
 
@@ -21,7 +21,7 @@
 
 | 项目 | 项目简介 | 技术方向 |
 |---|---|---|
-| [AI Research Assistant](https://github.com/Wangzhi3456/AI-Research-Assistant) | 基于大语言模型的科研文献智能问答助手，实现 PDF 解析与文献问答 | Python、RAG、LLM、Streamlit |
+| AI Research Assistant| 基于大语言模型的科研文献智能问答助手，实现 PDF 解析与文献问答 | Python、RAG、LLM、Streamlit |
 | 数据工程与数据质量分析 | 基于 Python 开展数据清洗、质量检测、字段分析、数据分布统计及处理结果输出 | Python、Pandas、SQL、数据处理 |
 | 高速铁路无线通信研究 | 面向高速移动场景，研究 Cell-Free Massive MIMO-OFDM 系统 | MATLAB、OFDM、Massive MIMO |
 | 农田病害智能巡检系统 | 基于计算机视觉的农田病害识别与嵌入式自动巡检系统 | YOLOv8、Python、嵌入式开发 |
