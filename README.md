@@ -1,8 +1,6 @@
-# 👋 你好，我是王睿璇^ ^
+# 👋 你好，我是王睿璇^_^
 
 **通信工程 | 人工智能应用 | 软件开发**
-
-北京交通大学通信工程专业本科生，已推免至北京交通大学卓越工程师学院。
 
 关注通信技术与人工智能的交叉应用，具备一定的算法研究、软件开发和工程实践经验，致力于将理论研究与实际应用相结合。
 
@@ -13,8 +11,8 @@
 
 ### 🛠️ 技术栈
 - **编程语言：** Python、C、C++、MATLAB、SQL
-- **AI 与开发：** PyTorch、YOLOv8、RAG、Streamlit、LangChain、LangGraph
-- **工程工具：** Git、CST、Vivado、Multisim、LTspice
+- **AI 与开发：** PyTorch、YOLOv8、RAG、Multi-Agent、Streamlit、LangChain、LangGraph
+- **工程工具：** Git、CST、Multisim
 
 
 ### 🚀 项目经历
